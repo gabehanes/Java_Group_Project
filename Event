@@ -20,5 +20,9 @@ public class Event {
     public String getEventType() {
         return eventType;
     }
-}
 
+    @Override
+    public String toString() {
+        return "Event Name: " + eventName + ", Date: " + eventDate + ", Type: " + eventType;
+    }
+}
