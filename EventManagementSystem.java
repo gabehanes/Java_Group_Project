@@ -131,6 +131,6 @@ public class EventManagementSystem {
         organizer.createEvent("Conference 1", "2024-05-01", "Conference", 100, speakers1);
         organizer.createEvent("Conference 2", "2024-05-15", "Conference", 150, speakers2);
 
-        // Implement logic to preload additional data if necessary
+        
     }
 }
