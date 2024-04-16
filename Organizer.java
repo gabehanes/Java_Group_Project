@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class 0rganizer {
+public class Organizer {
     private String organizerName;
     private ArrayList<Event> events;
     private HashMap<String, HashSet<String>> attendeeRSVPs;
@@ -40,6 +40,5 @@ public class 0rganizer {
     public ArrayList<Event> getEvents() {
         return events;
     }
-
-    // Implement additional methods as needed
 }
+
