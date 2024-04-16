@@ -25,3 +25,5 @@ public class Attendee {
         return attendedEvents;
     }
 }
+
+}
