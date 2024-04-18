@@ -26,5 +26,3 @@ public class Event {
         return "Event Name: " + eventName + ", Date: " + eventDate + ", Type: " + eventType;
     }
 }
-
-}
